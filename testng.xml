@@ -4,7 +4,7 @@
     <listeners>
         <listener class-name="utilities.extentReportsManager"/>
     </listeners>
-    <parameter name="os" value="Windows"/>
+    <parameter name="os" value="windows"/>
     <parameter name="browser" value="Chrome"/>
     <test verbose="2" preserve-order="true" name="Test1">
         <classes>
