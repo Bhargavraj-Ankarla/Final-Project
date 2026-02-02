@@ -1,44 +1,28 @@
-2026-01-30 14:40:27 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
-2026-01-30 14:40:46 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
-2026-01-30 14:40:46 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
-2026-01-30 14:41:02 INFO  HotelCostsTest:78 - ***** HotelCostsTest Completed  ****
-2026-01-30 14:41:02 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
-2026-01-30 14:41:37 INFO  HotelCostsTest:19 - ***** Cruise Details Test Completed ****
-2026-01-30 14:41:37 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
-2026-01-30 14:41:52 INFO  HotelCostsTest:34 - Guest capacity: 1,266
-2026-01-30 14:41:52 INFO  HotelCostsTest:35 - Renovated: 2024
-2026-01-30 14:41:52 INFO  HotelCostsTest:36 - Cruise ID: 160581
-2026-01-30 14:41:52 INFO  HotelCostsTest:41 - ***** Cruise Results Test Completed ****
-2026-01-30 15:41:15 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
-2026-01-30 15:41:37 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
-2026-01-30 15:41:37 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
-2026-01-30 15:41:48 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
-2026-01-30 15:42:19 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
-2026-01-30 15:43:13 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
-2026-01-30 15:43:32 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
-2026-01-30 15:43:32 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
-2026-01-30 15:43:32 INFO  HotelCostsTest:40 - Total hotel results: 2,502 properties found
-2026-01-30 15:43:38 INFO  HotelCostsTest:59 - Total hotel results after Pool filter: 601 properties found
-2026-01-30 15:43:43 INFO  HotelCostsTest:63 - Total hotel resultsCountAfterTopReviewed: 601 properties found
-2026-01-30 15:43:47 INFO  HotelCostsTest:75 - ***** HotelCostsTest Completed  ****
-2026-01-30 15:43:47 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
-2026-01-30 15:44:23 INFO  HotelCostsTest:19 - ***** Cruise Details Test Completed ****
-2026-01-30 15:44:23 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
-2026-01-30 15:44:43 INFO  HotelCostsTest:34 - Guest capacity: 1,266
-2026-01-30 15:44:43 INFO  HotelCostsTest:35 - Renovated: 2024
-2026-01-30 15:44:43 INFO  HotelCostsTest:36 - Cruise ID: 160581
-2026-01-30 15:44:43 INFO  HotelCostsTest:41 - ***** Cruise Results Test Completed ****
-2026-01-30 15:46:59 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
-2026-01-30 15:47:18 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
-2026-01-30 15:47:18 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
-2026-01-30 15:47:18 INFO  HotelCostsTest:40 - Total hotel results: 2,502 properties found
-2026-01-30 15:47:24 INFO  HotelCostsTest:59 - Total hotel results after Pool filter: 601 properties found
-2026-01-30 15:47:28 INFO  HotelCostsTest:63 - Total hotel resultsCountAfterTopReviewed: 601 properties found
-2026-01-30 15:47:33 INFO  HotelCostsTest:75 - ***** HotelCostsTest Completed  ****
-2026-01-30 15:47:33 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
-2026-01-30 15:48:06 INFO  HotelCostsTest:19 - ***** Cruise Details Test Completed ****
-2026-01-30 15:48:06 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
-2026-01-30 15:48:21 INFO  HotelCostsTest:34 - Guest capacity: 1,266
-2026-01-30 15:48:21 INFO  HotelCostsTest:35 - Renovated: 2024
-2026-01-30 15:48:21 INFO  HotelCostsTest:36 - Cruise ID: 160581
-2026-01-30 15:48:21 INFO  HotelCostsTest:41 - ***** Cruise Results Test Completed ****
+2026-02-02 09:00:08 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
+2026-02-02 09:00:28 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
+2026-02-02 09:00:28 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
+2026-02-02 09:00:29 INFO  HotelCostsTest:40 - Total hotel results: 2,508 properties found
+2026-02-02 09:00:34 INFO  HotelCostsTest:59 - Total hotel results after Pool filter: 601 properties found
+2026-02-02 09:00:40 INFO  HotelCostsTest:63 - Total hotel resultsCountAfterTopReviewed: 601 properties found
+2026-02-02 09:00:46 INFO  HotelCostsTest:75 - ***** HotelCostsTest Completed  ****
+2026-02-02 09:00:46 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
+2026-02-02 09:01:22 INFO  HotelCostsTest:19 - ***** Cruise Details Test Completed ****
+2026-02-02 09:01:22 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
+2026-02-02 09:01:38 INFO  HotelCostsTest:34 - Guest capacity: 1,266
+2026-02-02 09:01:38 INFO  HotelCostsTest:35 - Renovated: 2024
+2026-02-02 09:01:38 INFO  HotelCostsTest:36 - Cruise ID: 160581
+2026-02-02 09:01:38 INFO  HotelCostsTest:41 - ***** Cruise Results Test Completed ****
+2026-02-02 17:36:19 INFO  HotelCostsTest:18 - ***** Starting HotelCostsTest  ****
+2026-02-02 17:36:36 INFO  HotelCostsTest:32 - ***** Searched for required hotel details  ****
+2026-02-02 17:36:36 INFO  HotelCostsTest:36 - ***** HotelResultsPage Started  ****
+2026-02-02 17:36:36 INFO  HotelCostsTest:40 - Total hotel results: 2,427 properties found
+2026-02-02 17:36:44 INFO  HotelCostsTest:59 - Total hotel results after Pool filter: 599 properties found
+2026-02-02 17:36:48 INFO  HotelCostsTest:63 - Total hotel resultsCountAfterTopReviewed: 599 properties found
+2026-02-02 17:36:53 INFO  HotelCostsTest:75 - ***** HotelCostsTest Completed  ****
+2026-02-02 17:36:53 INFO  HotelCostsTest:12 - ***** Starting Cruise Details Test ****
+2026-02-02 17:37:26 INFO  HotelCostsTest:19 - ***** Cruise Details Test Completed ****
+2026-02-02 17:37:26 INFO  HotelCostsTest:23 - ***** Starting Cruise Results Test ****
+2026-02-02 17:37:41 INFO  HotelCostsTest:34 - Guest capacity: 1,266
+2026-02-02 17:37:41 INFO  HotelCostsTest:35 - Renovated: 2024
+2026-02-02 17:37:41 INFO  HotelCostsTest:36 - Cruise ID: 160581
+2026-02-02 17:37:41 INFO  HotelCostsTest:41 - ***** Cruise Results Test Completed ****

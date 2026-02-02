@@ -15,7 +15,8 @@ public class ExcelUtil {
     public static void writeHotelData(List<WebElement> hotelCards, String filePath) {
         try {
             if(hotelCards == null){
-                System.out.println("Hotel cards list is null"); return;
+                System.out.println("Hotel cards list is null");
+                return;
             }else { System.out.println("Writing hotel data Cards first top3"); }
             File resourcesDir = new File("src/test/resources");
             if (!resourcesDir.exists()) { resourcesDir.mkdirs(); }
@@ -42,7 +43,7 @@ public class ExcelUtil {
                 try {
                     List<WebElement> totalPriceElement = card.findElements(org.openqa.selenium.By.xpath(".//p[contains(text(),'Total price')]"));
                     if (!totalPriceElement.isEmpty()) {
-                        String totalDetails = totalPriceElement.get(0).getText();
+                        String totalDetails = totalPriceElement.getFirst().getText();
                         totalPrice = totalDetails.replaceAll("(?s).*?(₹\\s?[0-9,]+).*", "$1");
                     }
                 } catch (Exception ignored) {}
@@ -95,9 +96,14 @@ public class ExcelUtil {
                 headerRow.createCell(i).setCellValue(headers[i]);
             }
 
-            int maxRows = hotelNamesLists.stream().mapToInt(List::size).max().orElse(0);
+            int maxRows = 0;
+            for (List<String> list : hotelNamesLists) {
+                if (list.size() > maxRows) {
+                    maxRows = list.size();
+                }
+            }
             for (int rowIdx = 0; rowIdx < maxRows; rowIdx++) {
-                Row row = sheet.createRow(rowIdx + 1); // +1 to skip header
+                Row row = sheet.createRow(rowIdx + 1);
                 for (int colIdx = 0; colIdx < hotelNamesLists.size(); colIdx++) {
                     List<String> names = hotelNamesLists.get(colIdx);
                     if (rowIdx < names.size()) {
